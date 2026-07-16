@@ -161,7 +161,7 @@ e67c883ac9a05c8ad58709907d49b72e446301173be204fae7cf5f56dfec3dad  ./system/bin/a
 a23dc86f634f418bf02a9a8985873bc7d3e2d86129c908e937c228289d4e0f87  ./system/bin/reboot
 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  ./system/bin/nano_twrp-timestamp
 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  ./system/bin/tzdata_twrp-timestamp
-248a30da69ff8de52bb0a258d9dc1afdc0372cc5cf1cbe1061e72a77d66396bf  ./system/bin/recovery
+7c4f3f3b25ed151570939757c153f79e8508db04d6be286c3d78612020edb57e  ./system/bin/recovery
 7df9fd0f1c72b3b2f5864d01d2a1203e40d0db7324e023d02ce489ed1f32d00a  ./system/bin/erase_image
 72043bba52d18e2780620f9c5483dd6459d12f20679d8a01294e718db9344ebc  ./system/bin/magiskboot
 17d7608297576cdbfa022f0cf7519d1e335c4ae3183c254d27bece899c1cc9c8  ./system/bin/bu
@@ -182,7 +182,7 @@ fea94e627ed79303d1387919c5ddeffccddb169cd0637eca512424f549500642  ./system/bin/r
 a2ae20a5293e35d2da9177ee923466b201c304431051b7709a02a6dcace52434  ./system/bin/tune2fs
 058431eb16dc27f09875b807547c584e90c060062a51322dfc547580e6d24d24  ./system/bin/zip
 f81d08262cfa0ac3a7893a6ee012d812473a6cece0ad2d63f1ff7fe3c7a5d2c3  ./system/bin/fsck.exfat
-c5657be3e386ef930c8fb885b6d1f633284c60f58458e7504646efe0223f5c0e  ./system/bin/twrp
+ab5cd0966e6253daa51ee8bb50144fd7e2d9297547348325d44ac46bfbbd21f1  ./system/bin/twrp
 3d7765b12266130a6c66502d4e87f4930c508f5920cc8f0114ac9be08840bf68  ./system/bin/fsck.f2fs
 0f688aaba4d3c640fdacc31622f689ce4a80d0d576c055adfc0df785017bc351  ./system/etc/init/android.hardware.boot@1.0-service.rc
 4a4bf72f8cb50dc490ca55bcd0b5da5e9609ee6504305428a930c08cca8b61de  ./system/etc/init/android.hardware.health@2.1-service.rc
@@ -240,7 +240,7 @@ e51c44f043e037fe959a393d0c155c33f5dd874dc3310a92676130717308738e  ./system/etc/n
 51c79acea37639473e380035025dfc390b359a5a23ce02154772fff412cb7ecf  ./system/etc/nano/json.nanorc
 a08ae3766847dd03cf3a95cf2e3989e986856dddeef1b209e80a39a238be0260  ./system/etc/ld.config.txt
 5d66d6d697e6ade31447053789dc85cf9d95cb0c2190dc449cd40e057f9e0938  ./system/etc/recovery.fstab
-c8ee984b2f4e8c335797c6643dd79d72a0fda389ab3d64ae4721c86904bfd728  ./system/etc/twrp.flags
+5a6d509ddbe218d851ca2ca5c558e99393310fdcad13156b5fe143d69d39e58b  ./system/etc/twrp.flags
 65042a5a539658bcd6d76481e7f3841a75d21bb0a6218af984485e56069daf20  ./system/etc/bash/bashrc
 1372f6d69c3638d63724c6daecf339c82bb9520a77ead2d497cb66e7114e62bb  ./system/etc/bash/inputrc
 3f17d3234a6e806f9152d7545ffad38ae054fdfab4ad30ca172a79b22cab0ea3  ./system/etc/bash/bash_logout

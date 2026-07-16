@@ -94,4 +94,4 @@ auto                      auto      /devices/platform/soc/11201000.usb0/11200000
 /vendor_dlkm            emmc     /dev/block/mapper/vendor_dlkm                   flags=display=vendor_dlkm;slotselect;backup=1;flashimg=1
 /odm_dlkm            emmc     /dev/block/mapper/odm_dlkm                   flags=display=odm_dlkm;slotselect;backup=1;flashimg=1
 /system_dlkm            emmc     /dev/block/mapper/system_dlkm                   flags=display=system_dlkm;slotselect;backup=1;flashimg=1
-# Online TWRP Builder By Team Hovatek
+# Built for Zeus_V20
