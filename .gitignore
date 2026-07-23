@@ -5,3 +5,6 @@
 # Ignore compiled binaries or recovery image outputs if generated inside here
 *.img
 *.bin
+
+# Exception for prebuilt DTB image
+!prebuilt/dtb.img
